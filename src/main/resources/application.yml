@@ -1,0 +1,6 @@
+server:
+  port: 9091
+spring:
+  application:
+    name: spring_oauth2_resource_server
+
